@@ -1,1 +1,1 @@
-This repository contains my python practice codes
+This Repository Contains My Python Practice Codes
